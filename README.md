@@ -6,7 +6,12 @@ Repository Definition: a project folder that lives on GitHub.
 
 Commit Definition: a saved snapshot of your work with a note describing what changed.
 
-1. Changes Made:
-- Added self introduction
-- Added Repository Definition
-- Added Commit Definition 
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="education.html">Education</a>
+    <a href="projects.html">Projects</a>
+    <a href="skills.html">Skills</a>
+    <a href="contact.html">Contact</a>
+  </nav>
